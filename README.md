@@ -6,7 +6,7 @@ The Keep Notes is a user-friendly and intuitive note-taking application built us
 
 ## Features
 
-This website includes the following features:
+This website has the following features:
 
 * **Intuitive User Interface:** The user interface is designed to be intuitive and user-friendly. With a clean and organized layout, users can easily navigate through their notes and access the various features.
 * **Notes Creation:** Users can easily create new notes by providing a title and description for each note. This feature enables quick note-taking, allowing users to capture their ideas without any hassle.
